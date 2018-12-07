@@ -1,0 +1,12 @@
+Editing
+- Index.html
+- app.js
+- test.sol
+
+GUI?
+- display outpur of blockchain
+- text input and write to blockchain
+
+Changes to make
+- in app.js -- mark adopted
+- sol contract automatically loads test
